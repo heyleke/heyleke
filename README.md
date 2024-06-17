@@ -1,6 +1,6 @@
 ## Hi! 👋
 - 💬 My interests are:
-Cloud native automation, using kubernetes, argo toolchain, in a gitops way (using Argo CD).
+Cloud native automation, using Kubernetes, argo toolchain, in a gitops way (using Argo CD).
 
 - 🌱 I’m currently learning ...
   How to become a better contributor, as doing pull requests feels like a pain
