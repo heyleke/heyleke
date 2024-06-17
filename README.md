@@ -8,6 +8,8 @@ Cloud native automation, using Kubernetes, Argo toolchain, in a gitops way (usin
 - ⚡ Fun fact:
 I once gave a lightnign talk on KRM and Argo CD, here is the repo: https://github.com/nokia/argocd-krm-plugin-examples, and a link to the youtube recording: https://www.youtube.com/watch?v=kNHIbiRMS78&list=PLj6h78yzYM2MqzIJyc5OBXAgFxjW6ZyBq
 
+- 👯 I am a huge fan of the Google Kubernetes podcast: https://kubernetespodcast.com/
+
 <!--
 **heyleke/heyleke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
