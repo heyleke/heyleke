@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi! 👋
+- 💬 My interests are:
+Cloud native automation, using kubernetes, argo toolchain, in a gitops way (using Argo CD).
+
+- 🌱 I’m currently learning ...
+  How to become a better contributor, as doing pull requests feels like a pain
+
+- ⚡ Fun fact:
+I once gave a lightnign talk on KRM and Argo CD, here is the repo: https://github.com/nokia/argocd-krm-plugin-examples, and a link to the youtube recording: https://www.youtube.com/watch?v=kNHIbiRMS78&list=PLj6h78yzYM2MqzIJyc5OBXAgFxjW6ZyBq
 
 <!--
 **heyleke/heyleke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
